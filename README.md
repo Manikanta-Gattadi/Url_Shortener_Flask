@@ -28,6 +28,6 @@ A beginner-friendly URL Shortener built using Flask and SQLite.
 
 <img width="754" height="440" alt="Image" src="https://github.com/user-attachments/assets/ef42d25d-bbf3-4759-b795-aecdb69022ee" />
 
-<img width="1085" height="486" alt="Image" src="https://github.com/user-attachments/assets/3268a054-19e5-49f2-979b-d2225730826d" />
+<img width="1044" height="288" alt="Image" src="https://github.com/user-attachments/assets/f24e2356-26df-4c4e-ba88-7ba14d856079" />
 
 
